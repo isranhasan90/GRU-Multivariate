@@ -1,2 +1,3 @@
-# GRU-Multivariate
-Repository ini hanya coba-coba saja. mohon jangan dibully :)
+# Gated Recurrent Unit Optimized with Nesterov-Accelerated Adaptive Moment Estimation for Global Gold Price Prediction
+Ismail Harmain, Isran K Hasan
+
